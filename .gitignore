@@ -1,3 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.pyd
+*.so
+*.egg-info/
+.venc/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data and artifacts
+*.h5
+*.pt
+*.pth
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
